@@ -34,10 +34,10 @@ To view or edit this project, follow the steps below:
 ### Installation. 
 
 1. Clone the repository: 
-  _ git clone (https://github.com/yourusername/portfolio-website.git). 
+ _git clone (https://github.com/yourusername/portfolio-website.git). 
 
 2. Navigate to the project directory: 
-  _ cd portfolio-website
+ _cd portfolio-website
 
 3. Open index.html in your web browser to view the website.
 
@@ -58,8 +58,8 @@ This project is licensed under the MIT License. See the [LICENSE] file for detai
 
 ## Acknowledgments. 
 
-- [BoxIcons] (https://boxicons.com/) for the amazing icon library.
-- [Google Fonts] for the beautiful fonts.
+- [BoxIcons](https://boxicons.com/) for the amazing icon library.
+- [Google Fonts](https://fonts.google.com/) for the beautiful fonts.
 - Inspiration from various portfolio designs found on the web.
 
 ## Contact. 
@@ -67,7 +67,7 @@ This project is licensed under the MIT License. See the [LICENSE] file for detai
 If you have any questions or feedback, feel free to contact me: 
 
 - **Email**: manujaya77sasanka@gmail.com
-- **LinkedIn**: [LinkedIn Profile]. (https://www.linkedin.com/in/manujaya-sasanka-4a4284218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/manujaya-sasanka-4a4284218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
 - **Twitter**: [Twitter Profile].
 
 **Thank you for visiting my portfolio website!**
