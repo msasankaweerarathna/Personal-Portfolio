@@ -64,14 +64,6 @@ body{
     transition: .3s;
 }
 
-/* .navbar a {
-    font-size: 1.7rem;
-    color: var(--text-color);
-    font-weight: 500;
-    margin-left: 3.5rem;
-    transition: 3s;
-} */
-
 .navbar a:hover,
 .navbar a.active {
     color: var(--main-color);
@@ -162,16 +154,6 @@ section {
     width: 34.5rem;
     height: 5rem;
 }
-
-/* .btn-box .btn {
-    position: relative;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    width: 15rem;
-    height: 100%;
-    background: var(--main-color);
-} */
 
 .btn-box .btn {
     position: relative;
@@ -681,7 +663,6 @@ span {
     z-index: 1;
     overflow: hidden;
 }
-
 
 .footer-iconTop a::before {
     content: '';
