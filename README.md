@@ -6,7 +6,7 @@ Welcome to my personal portfolio website repository! This project showcases my w
 ## Features.
 
 - **Header Design**: A sleek and modern header that navigates through the different sections of the portfolio.
-- **Home Icons**: Includes icons for "Hire me," "Let's talk," Facebook, Twitter, and LinkedIn using [BoxIcons] (https://boxicons.com/).
+- **Home Icons**: Includes icons for "Hire me," "Let's talk," Facebook, Twitter, and LinkedIn using [BoxIcons](https://boxicons.com/).
 - **About Section**: An introduction to who I am, my background, and my professional journey.
 - **Education and Experience Section**: Details of my academic background and professional experience.
 - **Skills Section**: A display of my technical skills and proficiencies.
