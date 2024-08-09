@@ -3,7 +3,7 @@
 
 Welcome to my personal portfolio website repository! This project showcases my web development skills and includes various sections and features to provide a comprehensive view of my professional background and capabilities.
 
-## Features.
+## Features
 
 - **Header Design**: A sleek and modern header that navigates through the different sections of the portfolio.
 - **Home Icons**: Includes icons for "Hire me," "Let's talk," Facebook, Twitter, and LinkedIn using [BoxIcons](https://boxicons.com/).
@@ -13,7 +13,7 @@ Welcome to my personal portfolio website repository! This project showcases my w
 - **Contact Section**: A form for visitors to reach out to me, including fields for full name, email address, contact number, email subject, and message.
 - **Footer**: A simple and clean footer with additional navigation links and contact information. 
 
-## Technologies Used. 
+## Technologies Used
 
 - **HTML5**: Markup language for structuring the content.
 - **CSS3**: Styling the website, including responsive design with media queries.
@@ -22,16 +22,16 @@ Welcome to my personal portfolio website repository! This project showcases my w
 - **Google Fonts**: Custom fonts to enhance the visual appeal.
 - **Animations**: Scroll and reload animations, along with keyframe animations for dynamic effects.
 
-## Getting Started. 
+## Getting Started
 
 To view or edit this project, follow the steps below:
 
-### Prerequisites. 
+### Prerequisites 
 
 - A web browser (e.g., Google Chrome, Mozilla Firefox)
 - A code editor (e.g., VSCode, Sublime Text)
 
-### Installation. 
+### Installation 
 
 1. Clone the repository: 
  _git clone (https://github.com/yourusername/portfolio-website.git). 
@@ -41,7 +41,7 @@ To view or edit this project, follow the steps below:
 
 3. Open index.html in your web browser to view the website.
 
-### Customization. 
+### Customization 
 
 Feel free to customize the content, styles, and scripts as per your requirement. Here are some areas you might want to modify:
 - **Content**: Update the text content in the HTML files to reflect your personal information.
